@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizz_buzz", "fizz_buzz\fizz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizz_buzz.tests", "fizz_buzz.tests\fizz_buzz.tests.csproj", "{4B9DD1DA-982D-41E2-A59B-7FD6B04A4EEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wardrobe", "wardrobe\wardrobe.csproj", "{D67CB9E3-D758-4480-98D7-15B20F00909F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wardrobe.tests", "wardrobe.tests\wardrobe.tests.csproj", "{E5333A77-14A0-4CE9-9AE5-6EAB78C93877}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4B9DD1DA-982D-41E2-A59B-7FD6B04A4EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9DD1DA-982D-41E2-A59B-7FD6B04A4EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B9DD1DA-982D-41E2-A59B-7FD6B04A4EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67CB9E3-D758-4480-98D7-15B20F00909F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67CB9E3-D758-4480-98D7-15B20F00909F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67CB9E3-D758-4480-98D7-15B20F00909F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67CB9E3-D758-4480-98D7-15B20F00909F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5333A77-14A0-4CE9-9AE5-6EAB78C93877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5333A77-14A0-4CE9-9AE5-6EAB78C93877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5333A77-14A0-4CE9-9AE5-6EAB78C93877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5333A77-14A0-4CE9-9AE5-6EAB78C93877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
